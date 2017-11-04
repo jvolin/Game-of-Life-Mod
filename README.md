@@ -1,4 +1,4 @@
-# Game of Life in JS
+# Game of Life in Color!
 
 Fullstack Academy workshop.
 
