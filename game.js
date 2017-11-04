@@ -101,7 +101,7 @@ var gameOfLife = {
           cell.style.backgroundColor = this.getRandomColor()
       } else {
         this.setCellStatus(cell,"dead");
-          cell.style.backgroundColor = '#00000'
+          cell.style.backgroundColor = '#fff'
       }
   },
 
